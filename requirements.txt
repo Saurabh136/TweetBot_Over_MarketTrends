@@ -1,0 +1,4 @@
+nsepy==0.8
+nsepython==0.0.972
+requests==2.27.1
+tweepy==4.10.0
